@@ -1,0 +1,78 @@
+
+body {
+    
+    text-align: center;
+    background-color: burlywood;
+    margin: 0px;
+}
+
+.heading {
+    
+    font-size: 60px;
+}
+
+.container {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    padding: 1.5rem;
+}
+
+.container input {
+    text-align: center;
+    font-size: 20px;
+    font-weight: bolder;
+}
+
+#birth-date {
+    height: 35px;
+    width: 203px;
+    border-radius: 5px;
+}
+
+#lucky-number {
+    margin-top: 20px;
+    height: 35px;
+    width: 200px;
+    border-radius: 5px;
+}
+
+#btn {
+    width: 130px;
+    height: 45px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    background: none;
+    color: blue;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+    font-weight: 700;
+    font-size: 1.05rem;
+    border-radius: 10px;
+    background: white;
+    position: relative;
+}
+
+
+    
+    
+}
+
+
+
+
+
+
+#show-result {
+    height: 35px;
+    width: 350px;
+    border-radius: 5px;
+}
+
+textarea {
+    text-align: center;
+    font-family: Noto Sans HK;
+    font-size: 23px;
+    font-weight: bolder;
+}
